@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4133dedd.css","mappings":"AAAA,EAGE,qBAAsB,CADtB,QAAS,CADT,SAGF,CAKA,UACE,WACF","sources":["index.css"],"sourcesContent":["* {\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n}\nhtml,\nbody {\n  height: 100%;\n}\nbody {\n  height: 100%;\n}\n"],"names":[],"sourceRoot":""}
